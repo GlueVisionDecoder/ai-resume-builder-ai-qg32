@@ -1,4 +1,4 @@
-# 
+# Elite AI Resume Builder themes. Featuring AI-scalability and real-time-processing — optimized for maximum performance.
 
 
 
